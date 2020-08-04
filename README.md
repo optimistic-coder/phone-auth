@@ -1,7 +1,10 @@
 # phone-auth
 Phone number verification with twilio and nodejs
 
-1. create config.js file
-2. add accounbtID, serviceID, authToken
-3. npm i
-4. node index.js
+1. create twilio account
+2. create phone verification service
+3. clone this project
+4. create config.js file
+5. add accounbtID, serviceID, authToken which is available on yout ![Github stats](https://www.twilio.com/) account
+6. npm i
+7. node index.js
